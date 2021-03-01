@@ -6,7 +6,7 @@
     "pinch-zoom-js": "^2.3.4",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "three": "^0.109.0",
+    "three": "^0.125.0",
     "tweenjs": "^1.0.2"
   },
   "private": true,
